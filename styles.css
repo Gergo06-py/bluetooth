@@ -20,6 +20,11 @@ p {
   text-align: justify;
 }
 
+.felkover {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
 .frame {
   width: 380px;
   float: right;
